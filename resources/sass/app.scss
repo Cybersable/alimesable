@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700');
+@import '../css/bootstrap.min.css';
+@import '../css/animate.css';
+@import '../css/default-assets/classy-nav.css';
+@import '../css/owl.carousel.min.css';
+@import '../css/magnific-popup.css';
+@import '../css/font-awesome.min.css';
+@import '../css/default-assets/themify-icons.css';
+@import '../css/style.css';
+
+// Utilities
+
+@import "utilities/fonts";
+@import "utilities/variables";
+@import "utilities/responsive";
+@import "utilities/color";
+
+// Mixins
+
+@import "mixins/flex";
+@import "mixins/miscellaneous";
+
+// Stylesheet
+
+@import "reboot";
+@import "spacing";
+@import "preloader";
+@import "heading";
+@import "backtotop";
+@import "buttons";
+@import "header";
+@import "hero";
+@import "footer";
+@import "follow";
+@import "about";
+@import "breadcrumb";
+@import "blog";
+@import "team";
+@import "gallery";
+@import "contact";
